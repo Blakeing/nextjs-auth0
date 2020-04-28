@@ -1,8 +1,8 @@
 {
   "build": {
     "env": {
-      "AUTH0_DOMAIN": "YOUR_AUTH0_DOMAIN",
-      "AUTH0_CLIENT_ID": "YOUR_AUTH0_CLIENT_ID",
+      "AUTH0_DOMAIN": "dev-q4d9frdn.auth0.com",
+      "AUTH0_CLIENT_ID": "nb2wTwlXSjUWn0c8dwuz5mRJkOpyeZJT",
       "AUTH0_CLIENT_SECRET": "@auth0_client_secret",
       "REDIRECT_URI": "https://my-website.now.sh/api/callback",
       "POST_LOGOUT_REDIRECT_URI": "https://my-website.now.sh/",
