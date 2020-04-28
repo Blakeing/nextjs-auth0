@@ -4,8 +4,8 @@
       "AUTH0_DOMAIN": "dev-q4d9frdn.auth0.com",
       "AUTH0_CLIENT_ID": "nb2wTwlXSjUWn0c8dwuz5mRJkOpyeZJT",
       "AUTH0_CLIENT_SECRET": "@auth0_client_secret",
-      "REDIRECT_URI": "https://nextjs-auth0-git-master.blakeingenthron.now.sh/callback",
-      "POST_LOGOUT_REDIRECT_URI": "https://nextjs-auth0-git-master.blakeingenthron.now.sh/",
+      "REDIRECT_URI": "https://nextjs-auth0-three.now.sh/callback",
+      "POST_LOGOUT_REDIRECT_URI": "https://nextjs-auth0-three.now.sh/",
       "SESSION_COOKIE_SECRET": "@session_cookie_secret"
     }
   }
